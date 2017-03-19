@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 
 import { HighlightDirective } from './highlight.directive';
+import { UnlessDirective } from "./unless.directive";
 
 @Component({
   selector: 'dir-root',
